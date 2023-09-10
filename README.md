@@ -5,7 +5,7 @@
 
 - 涉及版权，个人信息，肖像权可以自行联系管理员删除。联系方式仅支持电子邮箱。
 
-- 投诉反馈邮箱：abusecomplaints@gnix.eu
+- 投诉反馈邮箱：abuse@gnix.eu
 
 
 - 爆料投稿邮箱：vip@gnix.eu
